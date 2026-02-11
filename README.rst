@@ -50,7 +50,7 @@ asyncio is a free software distributed under the Apache license version 2.0.
 Websites
 ========
 
-* `asyncio project at GitHub <https://github.com/python/asyncio>`_: source
+* `asyncio project at GitHub <https://github.com/Unity-Billal-mesloub/asyncio>`_: source
   code, bug tracker
 * `asyncio documentation <https://docs.python.org/dev/library/asyncio.html>`_
 * Mailing list: `python-tulip Google Group
